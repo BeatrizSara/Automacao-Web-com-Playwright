@@ -1,2 +1,2 @@
 # Automacao-Web-com-Playwright
-Scripts de testes no Pinterest
+Teste de login automatizado no Pinterest usando Playwright e JavaScript.
